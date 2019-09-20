@@ -1,3 +1,4 @@
 .idea/
 __pycache__/
 Python Crash Course.pdf
+/venv/
